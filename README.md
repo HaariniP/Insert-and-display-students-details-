@@ -26,3 +26,9 @@ public class StudentDetails {
         scanner.close();
     }
 }
+
+Output 
+Student Details:
+Name: Alice
+Age: 20
+Grade: A
